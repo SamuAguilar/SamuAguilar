@@ -20,7 +20,7 @@
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,mysql,java)](https://skillicons.dev)
 <br>
 <br>
 <!-- Connect with me -->
