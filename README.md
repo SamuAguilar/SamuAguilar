@@ -1,3 +1,3 @@
-### Hola, Soy Samuel Aguilar
+### <h1>Hola, Soy Samuel Aguilar</h1>
 
-<img src="[https://imgur.com/M0oSNcz](https://i.imgur.com/M0oSNcz.png)https://i.imgur.com/M0oSNcz.png">
+<img src="https://i.imgur.com/M0oSNcz.png">
