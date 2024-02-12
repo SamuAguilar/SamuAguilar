@@ -22,6 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,mysql,java)](https://skillicons.dev)
 <br>
+<br>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 ## <b> Connect With Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
